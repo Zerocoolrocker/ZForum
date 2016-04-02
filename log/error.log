@@ -1,0 +1,339 @@
+2016-04-01 18:09:03.365 [error] <0.274.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:{case_clause,{ok,[{"src/view/forum/topic.html",
+                         [{none,erlydtl_beam_compiler,
+                                {read_file,"src/view/base.html",enoent}}]}]}} Stacktrace: [{boss_web_controller_render,render_view,5,[{file,"src/boss/boss_web_controller_render.erl"},{line,217}]},{boss_web_controller_handle_request,run_controller_if_present,6,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,511}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]},{boss_web_controller_handle_request,handle_request,4,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,26}]},{mochicow_upgrade,upgrade,4,[{file,"src/mochicow_upgrade.erl"},{line,72}]}]
+2016-04-01 18:09:31.978 [error] <0.277.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:{case_clause,{ok,[{"src/view/forum/topic.html",
+                         [{none,erlydtl_beam_compiler,
+                                {read_file,"src/view/base.html",enoent}}]}]}} Stacktrace: [{boss_web_controller_render,render_view,5,[{file,"src/boss/boss_web_controller_render.erl"},{line,217}]},{boss_web_controller_handle_request,run_controller_if_present,6,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,511}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]},{boss_web_controller_handle_request,handle_request,4,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,26}]},{mochicow_upgrade,upgrade,4,[{file,"src/mochicow_upgrade.erl"},{line,72}]}]
+2016-04-01 18:09:33.651 [error] <0.280.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:{case_clause,{ok,[{"src/view/forum/topic.html",
+                         [{none,erlydtl_beam_compiler,
+                                {read_file,"src/view/base.html",enoent}}]}]}} Stacktrace: [{boss_web_controller_render,render_view,5,[{file,"src/boss/boss_web_controller_render.erl"},{line,217}]},{boss_web_controller_handle_request,run_controller_if_present,6,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,511}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]},{boss_web_controller_handle_request,handle_request,4,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,26}]},{mochicow_upgrade,upgrade,4,[{file,"src/mochicow_upgrade.erl"},{line,72}]}]
+2016-04-01 18:11:21.705 [error] <0.283.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:{case_clause,{ok,[{"src/view/forum/topic.html",
+                         [{none,erlydtl_beam_compiler,
+                                {read_file,"src/view/base.html",enoent}}]}]}} Stacktrace: [{boss_web_controller_render,render_view,5,[{file,"src/boss/boss_web_controller_render.erl"},{line,217}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,290}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]},{boss_web_controller_handle_request,handle_request,4,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,26}]},{mochicow_upgrade,upgrade,4,[{file,"src/mochicow_upgrade.erl"},{line,72}]}]
+2016-04-01 18:11:23.319 [error] <0.286.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:{case_clause,{ok,[{"src/view/forum/topic.html",
+                         [{none,erlydtl_beam_compiler,
+                                {read_file,"src/view/base.html",enoent}}]}]}} Stacktrace: [{boss_web_controller_render,render_view,5,[{file,"src/boss/boss_web_controller_render.erl"},{line,217}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,290}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]},{boss_web_controller_handle_request,handle_request,4,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,26}]},{mochicow_upgrade,upgrade,4,[{file,"src/mochicow_upgrade.erl"},{line,72}]}]
+2016-04-01 18:12:44.425 [error] <0.288.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:{case_clause,{ok,[{"src/view/forum/topic.html",
+                         [{none,erlydtl_beam_compiler,
+                                {read_file,"src/view/base.html",enoent}}]}]}} Stacktrace: [{boss_web_controller_render,render_view,5,[{file,"src/boss/boss_web_controller_render.erl"},{line,217}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,290}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]},{boss_web_controller_handle_request,handle_request,4,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,26}]},{mochicow_upgrade,upgrade,4,[{file,"src/mochicow_upgrade.erl"},{line,72}]}]
+2016-04-01 18:13:13.608 [error] <0.274.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:{case_clause,{ok,[{"src/view/forum/topic.html",
+                         [{none,erlydtl_beam_compiler,
+                                {read_file,"src/view/base.html",enoent}}]}]}} Stacktrace: [{boss_web_controller_render,render_view,5,[{file,"src/boss/boss_web_controller_render.erl"},{line,217}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,290}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]},{boss_web_controller_handle_request,handle_request,4,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,26}]},{mochicow_upgrade,upgrade,4,[{file,"src/mochicow_upgrade.erl"},{line,72}]}]
+2016-04-01 18:15:04.599 [error] <0.274.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:{case_clause,{ok,[{"src/view/forum/topic.html",
+                         [{none,erlydtl_beam_compiler,
+                                {read_file,"src/view/base.html",enoent}}]}]}} Stacktrace: [{boss_web_controller_render,render_view,5,[{file,"src/boss/boss_web_controller_render.erl"},{line,217}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,290}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]},{boss_web_controller_handle_request,handle_request,4,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,26}]},{mochicow_upgrade,upgrade,4,[{file,"src/mochicow_upgrade.erl"},{line,72}]}]
+2016-04-01 18:22:19.904 [error] <0.275.0> GET /forum/topic [zforum] 404 106ms
+2016-04-01 18:22:48.796 [error] <0.278.0> GET /forum/topic [zforum] 404 3ms
+2016-04-01 19:01:19.178 [error] <0.286.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/controller/zforum_topic_controller.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl",[{25,erl_parse,["syntax error before: ","'.'"]}]}]
+2016-04-01 19:02:14.311 [error] <0.289.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/controller/zforum_topic_controller.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl",[{8,erl_parse,["syntax error before: ","';'"]},{25,erl_parse,["syntax error before: ","'.'"]}]}]
+2016-04-01 19:02:21.576 [error] <0.292.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/controller/zforum_topic_controller.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl",[{25,erl_parse,["syntax error before: ","'.'"]}]}]
+2016-04-01 19:04:05.727 [error] <0.299.0> GET /topic/POST [zforum] 404 13ms
+2016-04-01 19:04:47.789 [error] <0.304.0>@boss_web_controller:call_controller_action:319 Error in controller error:undef Stacktrace: [{greeting,new,[id,"nuevo"],[]},{zforum_topic_controller,add,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,12}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 19:04:47.794 [error] <0.304.0> Error in controller, see console.log for details
+
+2016-04-01 19:04:48.045 [error] <0.304.0> POST /topic/add [zforum] 500 305ms
+2016-04-01 19:05:43.278 [error] <0.307.0>@boss_web_controller:call_controller_action:319 Error in controller error:undef Stacktrace: [{topic,new,[id,"nuevo"],[]},{zforum_topic_controller,add,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,12}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 19:05:43.285 [error] <0.307.0> Error in controller, see console.log for details
+
+2016-04-01 19:05:43.286 [error] <0.307.0> POST /topic/add [zforum] 500 85ms
+2016-04-01 19:05:51.418 [error] <0.311.0>@boss_web_controller:call_controller_action:319 Error in controller error:undef Stacktrace: [{topic,new,[id,"nuevo2"],[]},{zforum_topic_controller,add,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,12}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 19:05:51.423 [error] <0.311.0> Error in controller, see console.log for details
+
+2016-04-01 19:05:51.426 [error] <0.311.0> POST /topic/add [zforum] 500 33ms
+2016-04-01 19:08:57.418 [error] <0.278.0>@boss_web_controller:call_controller_action:319 Error in controller error:undef Stacktrace: [{topic,new,[id,"nuevo3"],[]},{zforum_topic_controller,add,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,12}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 19:08:57.498 [error] <0.278.0> Error in controller, see console.log for details
+
+2016-04-01 19:08:57.592 [error] <0.278.0> POST /topic/add [zforum] 500 252ms
+2016-04-01 19:13:20.583 [error] <0.281.0>@boss_web_controller:call_controller_action:319 Error in controller error:undef Stacktrace: [{topic,new,[id,"nuevo3"],[]},{zforum_topic_controller,add,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,12}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 19:13:20.587 [error] <0.281.0> Error in controller, see console.log for details
+
+2016-04-01 19:13:20.589 [error] <0.281.0> POST /topic/add [zforum] 500 173ms
+2016-04-01 19:13:30.596 [error] <0.288.0>@boss_web_controller:call_controller_action:319 Error in controller error:undef Stacktrace: [{topic,new,[id,"nuevo4"],[]},{zforum_topic_controller,add,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,12}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 19:13:30.600 [error] <0.288.0> Error in controller, see console.log for details
+
+2016-04-01 19:13:30.601 [error] <0.288.0> POST /topic/add [zforum] 500 112ms
+2016-04-01 19:17:38.356 [error] <0.305.0>@boss_web_controller_render:render_with_template:272 Error in view zforum_view_topic_topic_html error:{case_clause,{comments,[],topic,[{topic,"topic-1","nuevo4"}]}} Stacktrace: [{erlydtl_runtime,find_value,2,[{file,"src/erlydtl_runtime.erl"},{line,57}]},{erlydtl_runtime,fetch_value,4,[{file,"src/erlydtl_runtime.erl"},{line,142}]},{zforum_view_topic_topic_html,render_internal,2,[{file,""},{line,1198}]},{zforum_view_topic_topic_html,render,2,[{file,""},{line,500}]},{boss_web_controller_render,render_with_template,11,[{file,"src/boss/boss_web_controller_render.erl"},{line,264}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,290}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]}]
+2016-04-01 19:17:38.365 [error] <0.305.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:function_clause Stacktrace: [{boss_web_controller_handle_request,process_result,[{boss_app_info,zforum,[],
+                                                    "/static","/doc",all,
+                                                    [{zforum_01_news,[]}],
+                                                    <0.261.0>,<0.262.0>,
+                                                    <0.264.0>,<0.265.0>,[],[],
+                                                    ["zforum_topic_controller"]},
+                                                   {simple_bridge_request_wrapper,
+                                                    mochiweb_request_bridge,
+                                                    {mochicow_request,
+                                                     #Port<0.36140>,'GET',
+                                                     "/topic/topic",
+                                                     'HTTP/1.1',
+                                                     {9,
+                                                      {"host",
+                                                       {"host",
+                                                        "localhost:8001"},
+                                                       {"accept",
+                                                        {"accept",
+                                                         "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"},
+                                                        nil,
+                                                        {"accept-language",
+                                                         {"accept-language",
+                                                          "es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3"},
+                                                         {"accept-encoding",
+                                                          {"accept-encoding",
+                                                           "gzip, deflate"},
+                                                          nil,nil},
+                                                         {"cookie",
+                                                          {"cookie",
+                                                           "csrftoken=YfNKdcvsw3MNIZNDPh8SFsNNeMQlbpZz"},
+                                                          {"connection",
+                                                           {"connection",
+                                                            "keep-alive"},
+                                                           {"cache-control",
+                                                            {"cache-control",
+                                                             "max-age=0"},
+                                                            nil,nil},
+                                                           nil},
+                                                          nil}}},
+                                                       {"user-agent",
+                                                        {"user-agent",
+                                                         "Mozilla/5.0 (X11; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"},
+                                                        {"referer",
+                                                         {"referer",
+                                                          "http://localhost:8001/topic/add"},
+                                                         nil,nil},
+                                                        nil}}},
+                                                     <<>>},
+                                                    false,[],[],none},
+                                                   ok],[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,350}]},{boss_web_controller_handle_request,process_result_and_add_session,3,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,325}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_ha...
+2016-04-01 19:33:51.752 [error] <0.338.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/controller/zforum_topic_controller.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl",[{33,erl_parse,["syntax error before: ","'.'"]}]}]
+2016-04-01 19:41:16.314 [error] <0.346.0>@boss_web_controller:call_controller_action:319 Error in controller error:undef Stacktrace: [{simple_bridge_request_wrapper,get_param,["topic",
+                                         {simple_bridge_request_wrapper,
+                                          mochiweb_request_bridge,
+                                          {mochicow_request,#Port<0.40628>,
+                                           'GET',
+                                           "/topic/topic/?topic=topic-1",
+                                           'HTTP/1.1',
+                                           {8,
+                                            {"host",
+                                             {"host","localhost:8001"},
+                                             {"accept",
+                                              {"accept",
+                                               "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"},
+                                              nil,
+                                              {"accept-language",
+                                               {"accept-language",
+                                                "es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3"},
+                                               {"accept-encoding",
+                                                {"accept-encoding",
+                                                 "gzip, deflate"},
+                                                nil,nil},
+                                               {"cookie",
+                                                {"cookie",
+                                                 "csrftoken=YfNKdcvsw3MNIZNDPh8SFsNNeMQlbpZz"},
+                                                {"connection",
+                                                 {"connection","keep-alive"},
+                                                 nil,nil},
+                                                nil}}},
+                                             {"user-agent",
+                                              {"user-agent",
+                                               "Mozilla/5.0 (X11; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"},
+                                              {"referer",
+                                               {"referer",
+                                                "http://localhost:8001/topic/list"},
+                                               nil,nil},
+                                              nil}}},
+                                           <<>>},
+                                          false,[],[],none}],[]},{zforum_topic_controller,topic,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,24}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 19:41:16.319 [error] <0.346.0> Error in controller, see console.log for details
+
+2016-04-01 19:41:16.321 [error] <0.346.0> GET /topic/topic/ [zforum] 500 19ms
+2016-04-01 19:42:13.925 [error] <0.349.0>@boss_web_controller:call_controller_action:319 Error in controller error:undef Stacktrace: [{simple_bridge_request_wrapper,get_param,["topic",
+                                         {simple_bridge_request_wrapper,
+                                          mochiweb_request_bridge,
+                                          {mochicow_request,#Port<0.40872>,
+                                           'GET',
+                                           "/topic/topic/?topic=topic-1",
+                                           'HTTP/1.1',
+                                           {9,
+                                            {"host",
+                                             {"host","localhost:8001"},
+                                             {"accept",
+                                              {"accept",
+                                               "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"},
+                                              nil,
+                                              {"accept-language",
+                                               {"accept-language",
+                                                "es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3"},
+                                               {"accept-encoding",
+                                                {"accept-encoding",
+                                                 "gzip, deflate"},
+                                                nil,nil},
+                                               {"cookie",
+                                                {"cookie",
+                                                 "csrftoken=YfNKdcvsw3MNIZNDPh8SFsNNeMQlbpZz"},
+                                                {"connection",
+                                                 {"connection","keep-alive"},
+                                                 {"cache-control",
+                                                  {"cache-control",
+                                                   "max-age=0"},
+                                                  nil,nil},
+                                                 nil},
+                                                nil}}},
+                                             {"user-agent",
+                                              {"user-agent",
+                                               "Mozilla/5.0 (X11; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"},
+                                              {"referer",
+                                               {"referer",
+                                                "http://localhost:8001/topic/list"},
+                                               nil,nil},
+                                              nil}}},
+                                           <<>>},
+                                          false,[],[],none}],[]},{zforum_topic_controller,topic,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,24}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 19:42:13.930 [error] <0.349.0> Error in controller, see console.log for details
+
+2016-04-01 19:42:13.938 [error] <0.349.0> GET /topic/topic/ [zforum] 500 64ms
+2016-04-01 19:43:22.275 [error] <0.357.0> POST /topic/comment/ [zforum] 404 20ms
+2016-04-01 19:45:27.717 [error] <0.361.0> POST /topic/comment/ [zforum] 404 23ms
+2016-04-01 19:48:36.750 [error] <0.363.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/controller/zforum_topic_controller.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl",[{35,erl_parse,["syntax error before: ","'{'"]}]}]
+2016-04-01 19:48:43.088 [error] <0.366.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/controller/zforum_topic_controller.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl",[{35,erl_parse,["syntax error before: ","'{'"]}]}]
+2016-04-01 20:00:29.474 [error] <0.427.0>@boss_web_controller:call_controller_action:319 Error in controller error:function_clause Stacktrace: [{zforum_topic_controller,topic,['GET',[],
+                               {zforum_topic_controller,
+                                {simple_bridge_request_wrapper,
+                                 mochiweb_request_bridge,
+                                 {mochicow_request,#Port<0.44414>,'GET',
+                                  "/topic/topic/?topic=topic-1",'HTTP/1.1',
+                                  {9,
+                                   {"host",
+                                    {"host","localhost:8001"},
+                                    {"accept",
+                                     {"accept",
+                                      "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"},
+                                     nil,
+                                     {"accept-language",
+                                      {"accept-language",
+                                       "es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3"},
+                                      {"accept-encoding",
+                                       {"accept-encoding","gzip, deflate"},
+                                       nil,nil},
+                                      {"cookie",
+                                       {"cookie",
+                                        "csrftoken=YfNKdcvsw3MNIZNDPh8SFsNNeMQlbpZz"},
+                                       {"connection",
+                                        {"connection","keep-alive"},
+                                        {"cache-control",
+                                         {"cache-control","max-age=0"},
+                                         nil,nil},
+                                        nil},
+                                       nil}}},
+                                    {"user-agent",
+                                     {"user-agent",
+                                      "Mozilla/5.0 (X11; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"},
+                                     {"referer",
+                                      {"referer",
+                                       "http://localhost:8001/topic/list"},
+                                      nil,nil},
+                                     nil}}},
+                                  <<>>},
+                                 false,[],[],none}}],[]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller_handle_request,build_dynamic_response,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,129}]}]
+2016-04-01 20:00:29.479 [error] <0.427.0> Error in controller, see console.log for details
+
+2016-04-01 20:00:29.480 [error] <0.427.0> GET /topic/topic/ [zforum] 500 56ms
+2016-04-01 21:30:42.817 [error] <0.445.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/lib/init_functions.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/lib/init_functions.erl",[{2,erl_parse,"bad function arity"}]}]
+2016-04-01 21:31:11.156 [error] <0.448.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/lib/init_functions.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/lib/init_functions.erl",[{2,erl_parse,"bad function arity"}]}]
+2016-04-01 21:32:19.501 [error] <0.455.0>@boss_web_controller:call_controller_action:319 Error in controller error:function_clause Stacktrace: [{boss_mq,pull,[undefined,1459562539471,infinity],[{file,"src/boss/boss_mq.erl"},{line,69}]},{zforum_topic_controller,pull,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,42}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 21:32:19.506 [error] <0.455.0> Error in controller, see console.log for details
+
+2016-04-01 21:32:19.507 [error] <0.455.0> GET /topic/pull/1459562539471 [zforum] 500 15ms
+2016-04-01 21:35:23.901 [error] <0.460.0>@boss_web_controller:call_controller_action:319 Error in controller error:function_clause Stacktrace: [{boss_mq,pull,[undefined,1459562723873,infinity],[{file,"src/boss/boss_mq.erl"},{line,69}]},{zforum_topic_controller,pull,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,42}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 21:35:23.906 [error] <0.460.0> Error in controller, see console.log for details
+
+2016-04-01 21:35:23.907 [error] <0.460.0> GET /topic/pull/1459562723873 [zforum] 500 16ms
+2016-04-01 21:37:17.197 [error] <0.465.0>@boss_web_controller:call_controller_action:319 Error in controller error:function_clause Stacktrace: [{boss_mq,pull,[undefined,1459562837166,infinity],[{file,"src/boss/boss_mq.erl"},{line,69}]},{zforum_topic_controller,pull,3,[{file,"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl"},{line,42}]},{boss_web_controller,call_controller_action,3,[{file,"src/boss/boss_web_controller.erl"},{line,316}]},{boss_web_controller,apply_action,4,[{file,"src/boss/boss_web_controller.erl"},{line,308}]},{boss_web_controller,execute_action_inner,9,[{file,"src/boss/boss_web_controller.erl"},{line,287}]},{boss_web_controller_handle_request,process_dynamic_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,250}]},{boss_web_controller_handle_request,process_request,5,[{file,"src/boss/boss_web_controller_handle_request.erl"},{line,236}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]
+2016-04-01 21:37:17.202 [error] <0.465.0> Error in controller, see console.log for details
+
+2016-04-01 21:37:17.203 [error] <0.465.0> GET /topic/pull/1459562837166 [zforum] 500 17ms
+2016-04-01 21:45:45.131 [error] <0.485.0>@boss_load:compile_and_accumulate_errors:258 Compile Error, "src/controller/zforum_topic_controller.erl" -> [{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/src/controller/zforum_topic_controller.erl",[{37,erl_parse,["syntax error before: ","'.'"]}]}]
+2016-04-01 21:45:55.844 [error] <0.488.0> POST /topic/comment/ [zforum] 404 63ms
+2016-04-01 21:46:21.070 [error] <0.497.0> POST /topic/comment/ [zforum] 404 24ms
+2016-04-01 21:53:50.295 [error] <0.506.0> POST /topic/comment/ [zforum] 404 19ms
+2016-04-01 21:55:50.190 [error] <0.158.0> Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.476.0> exit with reason: killed
+
+2016-04-01 21:55:50.191 [error] <0.158.0> Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.470.0> exit with reason: killed
+
+2016-04-01 21:55:50.191 [error] <0.158.0> Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.483.0> exit with reason: killed
+
+2016-04-01 21:56:05.860 [error] <0.513.0>@boss_web_controller_handle_request:handle_request:30 Unhandled Error: error:function_clause Stacktrace: [{boss_web_controller_handle_request,process_result,[{boss_app_info,zforum,[],
+                                                    "/static","/doc",all,
+                                                    [{zforum_01_news,[]}],
+                                                    <0.261.0>,<0.262.0>,
+                                                    <0.264.0>,<0.265.0>,[],[],
+                                                    ["zforum_topic_controller"]},
+                                                   {simple_bridge_request_wrapper,
+                                                    mochiweb_request_bridge,
+                                                    {mochicow_request,
+                                                     #Port<0.53440>,'POST',
+                                                     "/topic/comment/",
+                                                     'HTTP/1.1',
+                                                     {13,
+                                                      {"host",
+                                                       {"host",
+                                                        "localhost:8001"},
+                                                       {"accept",
+                                                        {"accept","*/*"},
+                                                        nil,
+                                                        {"accept-language",
+                                                         {"accept-language",
+                                                          "es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3"},
+                                                         {"accept-encoding",
+                                                          {"accept-encoding",
+                                                           "gzip, deflate"},
+                                                          nil,nil},
+                                                         {"content-type",
+                                                          {"content-type",
+                                                           "application/x-www-form-urlencoded; charset=UTF-8"},
+                                                          {"content-length",
+                                                           {"content-length",
+                                                            "36"},
+                                                           {"connection",
+                                                            {"connection",
+                                                             "keep-alive"},
+                                                            {"cache-control",
+                                                             {"cache-control",
+                                                              "no-cache"},
+                                                             nil,nil},
+                                                            nil},
+                                                           nil},
+                                                          {"cookie",
+                                                           {"cookie",
+                                                            "csrftoken=YfNKdcvsw3MNIZNDPh8SFsNNeMQlbpZz"},
+                                                           nil,nil}}}},
+                                                       {"user-agent",
+                                                        {"user-agent",
+                                                         "Mozilla/5.0 (X11; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0"},
+                                                        {"referer",
+                                                         {"referer",
+                                                          "http://localhost:8001/topic/topic/?topic=topic-1"},
+                                                         {"pragma",
+                                                          {"...
+2016-04-01 21:56:29.201 [error] <0.158.0> Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.495.0> exit with reason: killed
+
+2016-04-01 21:56:29.202 [error] <0.158.0> Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.491.0> exit with reason: killed
+
+2016-04-01 21:56:29.202 [error] <0.158.0> Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.499.0> exit with reason: killed
+
+2016-04-01 21:56:29.202 [error] <0.158.0> Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.504.0> exit with reason: killed
+
+2016-04-01 21:58:13.364 [error] <0.95.0> Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{43,erl_parse,["syntax error before: ","'end'"]}]}]}
+
+2016-04-01 22:00:59.801 [error] <0.95.0> Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{43,erl_parse,["syntax error before: ","'end'"]}]}]}
+
+2016-04-01 22:04:57.857 [error] <0.95.0> Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{41,erl_parse,["syntax error before: ","io"]}]}]}
+
+2016-04-01 22:05:56.518 [error] <0.95.0> Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{44,erl_parse,["syntax error before: ","'end'"]}]}]}
+
+2016-04-01 22:24:09.115 [error] emulator Error in process <0.306.0> on node 'zforum@zer0' with exit value: {{case_clause,1},[{boss_news_controller_util,execute_fun,4,[{file,"src/boss_news_controller_util.erl"},{line,40}]},{boss_news_controller_util,'-execute_callback/5-fun-0-',5,[{file,"src/boss_news_controller_util.erl"},... 
+
+
+2016-04-01 22:26:21.976 [error] <0.95.0> Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{36,erl_parse,["syntax error before: ","$%"]}]}]}
+
+2016-04-01 22:28:55.484 [error] <0.95.0> Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{16,erl_parse,["syntax error before: ","'end'"]}]}]}
+
+2016-04-01 22:31:17.604 [error] <0.299.0> GET /topic/home [zforum] 404 24ms

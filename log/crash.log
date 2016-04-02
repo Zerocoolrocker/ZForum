@@ -1,0 +1,75 @@
+2016-04-01 18:22:19 =ERROR REPORT====
+GET /forum/topic [zforum] 404 106ms2016-04-01 18:22:48 =ERROR REPORT====
+GET /forum/topic [zforum] 404 3ms2016-04-01 19:04:05 =ERROR REPORT====
+GET /topic/POST [zforum] 404 13ms2016-04-01 19:04:47 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 19:04:48 =ERROR REPORT====
+POST /topic/add [zforum] 500 305ms2016-04-01 19:05:43 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 19:05:43 =ERROR REPORT====
+POST /topic/add [zforum] 500 85ms2016-04-01 19:05:51 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 19:05:51 =ERROR REPORT====
+POST /topic/add [zforum] 500 33ms2016-04-01 19:08:57 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 19:08:57 =ERROR REPORT====
+POST /topic/add [zforum] 500 252ms2016-04-01 19:13:20 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 19:13:20 =ERROR REPORT====
+POST /topic/add [zforum] 500 173ms2016-04-01 19:13:30 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 19:13:30 =ERROR REPORT====
+POST /topic/add [zforum] 500 112ms2016-04-01 19:41:16 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 19:41:16 =ERROR REPORT====
+GET /topic/topic/ [zforum] 500 19ms2016-04-01 19:42:13 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 19:42:13 =ERROR REPORT====
+GET /topic/topic/ [zforum] 500 64ms2016-04-01 19:43:22 =ERROR REPORT====
+POST /topic/comment/ [zforum] 404 20ms2016-04-01 19:45:27 =ERROR REPORT====
+POST /topic/comment/ [zforum] 404 23ms2016-04-01 20:00:29 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 20:00:29 =ERROR REPORT====
+GET /topic/topic/ [zforum] 500 56ms2016-04-01 21:32:19 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 21:32:19 =ERROR REPORT====
+GET /topic/pull/1459562539471 [zforum] 500 15ms2016-04-01 21:35:23 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 21:35:23 =ERROR REPORT====
+GET /topic/pull/1459562723873 [zforum] 500 16ms2016-04-01 21:37:17 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-01 21:37:17 =ERROR REPORT====
+GET /topic/pull/1459562837166 [zforum] 500 17ms2016-04-01 21:45:55 =ERROR REPORT====
+POST /topic/comment/ [zforum] 404 63ms2016-04-01 21:46:21 =ERROR REPORT====
+POST /topic/comment/ [zforum] 404 24ms2016-04-01 21:53:50 =ERROR REPORT====
+POST /topic/comment/ [zforum] 404 19ms2016-04-01 21:55:50 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.476.0> exit with reason: killed
+2016-04-01 21:55:50 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.470.0> exit with reason: killed
+2016-04-01 21:55:50 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.483.0> exit with reason: killed
+2016-04-01 21:56:29 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.495.0> exit with reason: killed
+2016-04-01 21:56:29 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.491.0> exit with reason: killed
+2016-04-01 21:56:29 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.499.0> exit with reason: killed
+2016-04-01 21:56:29 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.504.0> exit with reason: killed
+2016-04-01 21:58:13 =ERROR REPORT====
+Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{43,erl_parse,["syntax error before: ","'end'"]}]}]}
+2016-04-01 22:00:59 =ERROR REPORT====
+Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{43,erl_parse,["syntax error before: ","'end'"]}]}]}
+2016-04-01 22:04:57 =ERROR REPORT====
+Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{41,erl_parse,["syntax error before: ","io"]}]}]}
+2016-04-01 22:05:56 =ERROR REPORT====
+Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{44,erl_parse,["syntax error before: ","'end'"]}]}]}
+2016-04-01 22:24:09 =ERROR REPORT====
+Error in process <0.306.0> on node 'zforum@zer0' with exit value: {{case_clause,1},[{boss_news_controller_util,execute_fun,4,[{file,"src/boss_news_controller_util.erl"},{line,40}]},{boss_news_controller_util,'-execute_callback/5-fun-0-',5,[{file,"src/boss_news_controller_util.erl"},... 
+
+2016-04-01 22:26:21 =ERROR REPORT====
+Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{36,erl_parse,["syntax error before: ","$%"]}]}]}
+2016-04-01 22:28:55 =ERROR REPORT====
+Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{16,erl_parse,["syntax error before: ","'end'"]}]}]}
+2016-04-01 22:31:17 =ERROR REPORT====
+GET /topic/home [zforum] 404 24ms

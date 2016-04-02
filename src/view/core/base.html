@@ -1,0 +1,27 @@
+<html>
+<head>
+	<title>{% block title %} {% endblock %}</title>
+	<style type="text/css">
+		body {
+			/*background-color: black;	*/
+		}
+	</style>
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			{% block header %}
+				
+			{% endblock %}
+		</div>
+		<div id="content">
+			{% block content %}
+
+			{% endblock %}
+		</div>
+	</div>
+	{% block js %}
+		
+	{% endblock %}
+</body>
+</html>

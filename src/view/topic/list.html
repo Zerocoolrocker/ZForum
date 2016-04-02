@@ -1,0 +1,11 @@
+{% extends 'core/base.html' %}
+
+{% block content %}
+	<div id="topics">
+		{% for top in topics %}
+			<div class="topic">
+				<a href="/topic/topic/?topic={{ top.id }}"><h4 class="topic-title">{{ top.name }}</h4></a>
+			</div>
+		{% endfor %}	
+	</div>
+{% endblock %}
