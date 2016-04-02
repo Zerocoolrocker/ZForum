@@ -72,4 +72,159 @@ Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/
 2016-04-01 22:28:55 =ERROR REPORT====
 Compilation of "/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl" failed: {error,[{"/media/zer0/90a8cfb2-adbf-4b9d-9a31-89a66d37f6a9/zer0/Proyectos/ZForum/zforum/priv/init/zforum_01_news.erl",[{16,erl_parse,["syntax error before: ","'end'"]}]}]}
 2016-04-01 22:31:17 =ERROR REPORT====
-GET /topic/home [zforum] 404 24ms
+GET /topic/home [zforum] 404 24ms2016-04-02 16:21:49 =ERROR REPORT====
+Can't load module that resides in sticky dir
+2016-04-02 16:25:23 =ERROR REPORT====
+Can't load module that resides in sticky dir
+2016-04-02 16:36:30 =ERROR REPORT====
+GET /user/login [zforum] 404 5ms2016-04-02 16:56:33 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 16:56:33 =ERROR REPORT====
+POST /user/register [zforum] 500 339ms2016-04-02 17:00:01 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:00:01 =ERROR REPORT====
+POST /user/register [zforum] 500 16ms2016-04-02 17:02:49 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:02:49 =ERROR REPORT====
+POST /user/register [zforum] 500 93ms2016-04-02 17:03:26 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:03:26 =ERROR REPORT====
+POST /user/register [zforum] 500 104ms2016-04-02 17:04:57 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:04:57 =ERROR REPORT====
+POST /user/register [zforum] 500 90ms2016-04-02 17:05:48 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:05:48 =ERROR REPORT====
+POST /user/register [zforum] 500 70ms2016-04-02 17:06:52 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:06:52 =ERROR REPORT====
+POST /user/register [zforum] 500 70ms2016-04-02 17:08:30 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:08:30 =ERROR REPORT====
+POST /user/register [zforum] 500 20ms2016-04-02 17:09:49 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:09:49 =ERROR REPORT====
+POST /user/register [zforum] 500 79ms2016-04-02 17:13:49 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:13:49 =ERROR REPORT====
+POST /user/register [zforum] 500 348ms2016-04-02 17:16:00 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:16:00 =ERROR REPORT====
+POST /user/register [zforum] 500 330ms2016-04-02 17:20:19 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:20:19 =ERROR REPORT====
+POST /user/register [zforum] 500 102ms2016-04-02 17:23:10 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:23:10 =ERROR REPORT====
+POST /user/register [zforum] 500 18ms2016-04-02 17:37:39 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 17:37:40 =ERROR REPORT====
+POST /user/register [zforum] 500 1160ms2016-04-02 17:41:07 =ERROR REPORT====
+GET /user/home [zforum] 404 33ms2016-04-02 17:41:25 =ERROR REPORT====
+GET /user/home [zforum] 404 58ms2016-04-02 17:41:29 =ERROR REPORT====
+GET /core/home [zforum] 404 1ms2016-04-02 17:42:10 =ERROR REPORT====
+GET /core/home [zforum] 404 2ms2016-04-02 17:45:27 =ERROR REPORT====
+Error in process <0.277.0> on node 'zforum@zer0' with exit value: {{badmatch,false},[{cowboy_router,execute,2,[{file,"src/cowboy_router.erl"},{line,167}]},{cowboy_protocol,execute,4,[{file,"src/cowboy_protocol.erl"},{line,442}]}]}
+
+2016-04-02 17:45:27 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.277.0> exit with reason: {{badmatch,false},[{cowboy_router,execute,2,[{file,"src/cowboy_router.erl"},{line,167}]},{cowboy_protocol,execute,4,[{file,"src/cowboy_protocol.erl"},{line,442}]}]}
+2016-04-02 17:52:33 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.316.0> exit with reason: killed
+2016-04-02 17:58:54 =ERROR REPORT====
+GET /topic/create [zforum] 404 22ms2016-04-02 18:01:27 =ERROR REPORT====
+** Generic server boss_db_mock terminating 
+** Last message in was {find,topic,[{id,equal,"topic-17"}],all,0,id,ascending}
+** When Server state == [{{dict,17,16,16,8,80,48,{[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},{{[["forum_user-1"|{forum_user,"forum_user-1","zerocoolrocker@gmail.com","zer0","$2a$12$N2nMV5Vc2ASORcz.D8DY2.hLOSKRyIIL1sWdTxh4aCN5wHioqn/Ji"}],["comment-14"|{comment,"comment-14","tw1","topic-13"}]],[["comment-11"|{comment,"comment-11","3","topic-3"}]],[["comment-7"|{comment,"comment-7","sdklfklsdfklsdf","topic-3"}]],[["comment-4"|{comment,"comment-4","still works!","topic-3"}]],[],[["forum_user-2"|{forum_user,"forum_user-2","zerocoolrocker@gmail.com","prueba","$2a$12$qIRb832aGt/a3DYj9B27SuPHFe3iBJCInAycd0LVjC4X78guG6Fia"}],["comment-15"|{comment,"comment-15","tw2","topic-13"}]],[["comment-12"|{comment,"comment-12","4","topic-3"}]],[["comment-8"|{comment,"comment-8","djsdfjksjkdfjkdsf","topic-3"}],["topic-13"|{topic,"topic-13","two"}]],[["comment-5"|{comment,"comment-5","sdjjksdjkf","topic-3"}]],[],[["topic-3"|{topic,"topic-3","new"}],["comment-16"|{comment,"comment-16","tw3","topic-13"}]],[["topic-17"|{topic,"topic-17","3"}]],[["comment-9"|{comment,"comment-9","1","topic-3"}],["comment-10"|{comment,"comment-10","2","topic-3"}]],[["comment-6"|{comment,"comment-6","djdjkasdkjasjkd","topic-3"}]],[],[]}}},18}]
+** Reason for termination == 
+** {function_clause,[{boss_db_mock_controller,match_cond,[{topic,"topic-13","two"},[{id,equal,"topic-17"}]],[{file,"src/boss_db_mock_controller.erl"},{line,121}]},{dict,filter_bucket,4,[{file,"dict.erl"},{line,475}]},{dict,filter_bkt_list,4,[{file,"dict.erl"},{line,469}]},{dict,filter_seg_list,4,[{file,"dict.erl"},{line,463}]},{dict,filter_dict,2,[{file,"dict.erl"},{line,458}]},{boss_db_mock_controller,do_find,7,[{file,"src/boss_db_mock_controller.erl"},{line,112}]},{boss_db_mock_controller,handle_call,3,[{file,"src/boss_db_mock_controller.erl"},{line,24}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,580}]}]}
+2016-04-02 18:01:27 =CRASH REPORT====
+  crasher:
+    initial call: boss_db_mock_controller:init/1
+    pid: <0.97.0>
+    registered_name: []
+    exception exit: {{function_clause,[{boss_db_mock_controller,match_cond,[{topic,"topic-13","two"},[{id,equal,"topic-17"}]],[{file,"src/boss_db_mock_controller.erl"},{line,121}]},{dict,filter_bucket,4,[{file,"dict.erl"},{line,475}]},{dict,filter_bkt_list,4,[{file,"dict.erl"},{line,469}]},{dict,filter_seg_list,4,[{file,"dict.erl"},{line,463}]},{dict,filter_dict,2,[{file,"dict.erl"},{line,458}]},{boss_db_mock_controller,do_find,7,[{file,"src/boss_db_mock_controller.erl"},{line,112}]},{boss_db_mock_controller,handle_call,3,[{file,"src/boss_db_mock_controller.erl"},{line,24}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,580}]}]},[{gen_server,terminate,6,[{file,"gen_server.erl"},{line,737}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,237}]}]}
+    ancestors: [<0.96.0>,boss_web,boss_sup,<0.93.0>]
+    messages: []
+    links: [<0.96.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 4185
+    stack_size: 27
+    reductions: 9447
+  neighbours:
+2016-04-02 18:01:27 =SUPERVISOR REPORT====
+     Supervisor: {global,boss_db_mock_sup}
+     Context:    child_terminated
+     Reason:     {function_clause,[{boss_db_mock_controller,match_cond,[{topic,"topic-13","two"},[{id,equal,"topic-17"}]],[{file,"src/boss_db_mock_controller.erl"},{line,121}]},{dict,filter_bucket,4,[{file,"dict.erl"},{line,475}]},{dict,filter_bkt_list,4,[{file,"dict.erl"},{line,469}]},{dict,filter_seg_list,4,[{file,"dict.erl"},{line,463}]},{dict,filter_dict,2,[{file,"dict.erl"},{line,458}]},{boss_db_mock_controller,do_find,7,[{file,"src/boss_db_mock_controller.erl"},{line,112}]},{boss_db_mock_controller,handle_call,3,[{file,"src/boss_db_mock_controller.erl"},{line,24}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,580}]}]}
+     Offender:   [{pid,<0.97.0>},{name,db_mock_controller},{mfargs,{boss_db_mock_controller,start_link,[[]]}},{restart_type,permanent},{shutdown,2000},{child_type,worker}]
+
+2016-04-02 18:01:27 =ERROR REPORT====
+** Generic server <0.102.0> terminating 
+** Last message in was {find,topic,[{id,equal,"topic-17"}],all,0,id,ascending,[]}
+** When Server state == {state,connected,1,undefined,[{name,{local,boss_db_pool}},{worker_module,boss_db_controller},{size,5},{max_overflow,10},{adapter,mock},{cache_enable,false},{cache_prefix,db},{shards,[]},{is_master_node,true},{db_host,"localhost"},{db_port,1978}],boss_db_adapter_mock,undefined,undefined,[],{dict,0,16,16,8,80,48,{[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},{{[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]}}},false,60,db,0}
+** Reason for termination == 
+** {{function_clause,[{boss_db_mock_controller,match_cond,[{topic,"topic-13","two"},[{id,equal,"topic-17"}]],[{file,"src/boss_db_mock_controller.erl"},{line,121}]},{dict,filter_bucket,4,[{file,"dict.erl"},{line,475}]},{dict,filter_bkt_list,4,[{file,"dict.erl"},{line,469}]},{dict,filter_seg_list,4,[{file,"dict.erl"},{line,463}]},{dict,filter_dict,2,[{file,"dict.erl"},{line,458}]},{boss_db_mock_controller,do_find,7,[{file,"src/boss_db_mock_controller.erl"},{line,112}]},{boss_db_mock_controller,handle_call,3,[{file,"src/boss_db_mock_controller.erl"},{line,24}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,580}]}]},{gen_server,call,[{global,boss_db_mock},{find,topic,[{id,equal,"topic-17"}],all,0,id,ascending}]}}
+2016-04-02 18:01:27 =CRASH REPORT====
+  crasher:
+    initial call: boss_db_controller:init/1
+    pid: <0.102.0>
+    registered_name: []
+    exception exit: {{{function_clause,[{boss_db_mock_controller,match_cond,[{topic,"topic-13","two"},[{id,equal,"topic-17"}]],[{file,"src/boss_db_mock_controller.erl"},{line,121}]},{dict,filter_bucket,4,[{file,"dict.erl"},{line,475}]},{dict,filter_bkt_list,4,[{file,"dict.erl"},{line,469}]},{dict,filter_seg_list,4,[{file,"dict.erl"},{line,463}]},{dict,filter_dict,2,[{file,"dict.erl"},{line,458}]},{boss_db_mock_controller,do_find,7,[{file,"src/boss_db_mock_controller.erl"},{line,112}]},{boss_db_mock_controller,handle_call,3,[{file,"src/boss_db_mock_controller.erl"},{line,24}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,580}]}]},{gen_server,call,[{global,boss_db_mock},{find,topic,[{id,equal,"topic-17"}],all,0,id,ascending}]}},[{gen_server,terminate,6,[{file,"gen_server.erl"},{line,737}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,237}]}]}
+    ancestors: [<0.100.0>,boss_db_pool,boss_db_sup,boss_web,boss_sup,<0.93.0>]
+    messages: []
+    links: [<0.100.0>,<0.99.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 3067
+  neighbours:
+2016-04-02 18:01:27 =SUPERVISOR REPORT====
+     Supervisor: {<0.100.0>,poolboy_sup}
+     Context:    child_terminated
+     Reason:     {{function_clause,[{boss_db_mock_controller,match_cond,[{topic,"topic-13","two"},[{id,equal,"topic-17"}]],[{file,"src/boss_db_mock_controller.erl"},{line,121}]},{dict,filter_bucket,4,[{file,"dict.erl"},{line,475}]},{dict,filter_bkt_list,4,[{file,"dict.erl"},{line,469}]},{dict,filter_seg_list,4,[{file,"dict.erl"},{line,463}]},{dict,filter_dict,2,[{file,"dict.erl"},{line,458}]},{boss_db_mock_controller,do_find,7,[{file,"src/boss_db_mock_controller.erl"},{line,112}]},{boss_db_mock_controller,handle_call,3,[{file,"src/boss_db_mock_controller.erl"},{line,24}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,580}]}]},{gen_server,call,[{global,boss_db_mock},{find,topic,[{id,equal,"topic-17"}],all,0,id,ascending}]}}
+     Offender:   [{pid,<0.102.0>},{name,boss_db_controller},{mfargs,{boss_db_controller,start_link,undefined}},{restart_type,temporary},{shutdown,5000},{child_type,worker}]
+
+2016-04-02 18:03:39 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 18:03:40 =ERROR REPORT====
+GET /topic/topic [zforum] 500 300ms2016-04-02 18:04:16 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 18:04:16 =ERROR REPORT====
+GET /topic/topic [zforum] 500 29ms2016-04-02 18:04:55 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 18:04:55 =ERROR REPORT====
+GET /topic/topic [zforum] 500 57ms2016-04-02 18:05:08 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 18:05:08 =ERROR REPORT====
+GET /topic/topic [zforum] 500 26ms2016-04-02 18:06:02 =ERROR REPORT====
+"Error in controller, see console.log for details\n"
+2016-04-02 18:06:02 =ERROR REPORT====
+GET /topic/topic [zforum] 500 20ms2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.407.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.440.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.454.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.460.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.482.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.401.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.446.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.413.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.488.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.472.0> exit with reason: killed
+2016-04-02 18:07:34 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.466.0> exit with reason: killed
+2016-04-02 18:28:15 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.560.0> exit with reason: killed
+2016-04-02 18:28:15 =ERROR REPORT====
+Ranch listener boss_http_listener had connection process started with cowboy_protocol:start_link/4 at <0.565.0> exit with reason: killed

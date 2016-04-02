@@ -21,10 +21,16 @@ list('GET', []) ->
 .
 
 topic('GET', []) ->
-	TopicId = Req:query_param("topic"),
-	Topic  = boss_db:find_first(topic, []),
-	Comments  = boss_db:find(comment, [topic_id, equals, TopicId]),
-	{ok, [{comments, Comments}, {topic, Topic}]}
+	Permission = user_lib:require_login(Req),
+	case Permission of
+		{redirect, _} -> 
+			Permission;
+		{ok, ForumUser} ->
+			TopicId = Req:query_param("topic"),
+			Topic  = boss_db:find_first(topic, [id, equals, TopicId]),
+			Comments  = boss_db:find(comment, [topic_id, equals, TopicId]),
+			{ok, [{comments, Comments}, {topic, Topic}]}
+	end
 .
 
 comment('POST', []) ->
@@ -52,3 +58,4 @@ pull('GET', [LastTimestamp]) ->
 % 	Timestamp = boss_mq:now("new-greetings"),
 % 	{ok, [{greetings, Greetings}, {timestamp, Timestamp}]}
 % .
+
